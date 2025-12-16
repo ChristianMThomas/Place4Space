@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: chriswhocodes
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/place4space
+    username: postgres
+    password: 0634
+  jpa:
+    hibernate:
+      ddl-auto: update
