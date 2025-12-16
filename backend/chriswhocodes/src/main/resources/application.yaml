@@ -1,7 +1,6 @@
 spring:
   application:
     name: chriswhocodes
-spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/place4space
     username: postgres
